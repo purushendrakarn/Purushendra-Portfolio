@@ -81,7 +81,7 @@ const Hero = () => {
 
           {/* Photo */}
           <img
-            src="https://i.imghippo.com/files/zirV2030g.png"
+            src="pic.png"
             alt="Purushendra Karn"
             className="relative w-[73%] h-[100%] object-cover rounded-full shadow-2xl"
           />
