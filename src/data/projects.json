@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Washmandu - Laundry Service Platform",
+    "description": "Developed full-stack MERN app for booking, payments, and tracking.",
+    "icon": "fas fa-tshirt",
+    "tech": ["React", "Node.js", "MongoDB", "AWS"],
+    "link": "https://washmandu.com"
+  },
+  {
+    "title": "Nepalemarket - E-commerce Platform",
+    "description": "Built scalable MERN marketplace with secure login and optimized UI.",
+    "icon": "fas fa-shopping-bag",
+    "tech": ["React", "Express", "MongoDB", "Tailwind"],
+    "link": "https://nepalemarket.com"
+  },
+  {
+    "title": "SmartAcre - Marketing Analytics",
+    "description": "Built real-time data pipelines and dashboards for campaign tracking.",
+    "icon": "fas fa-chart-line",
+    "tech": ["React", "Node.js", "PostgreSQL", "Power BI"],
+    "link": "https://smartacremediasolutions.com"
+  }
+]
